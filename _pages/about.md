@@ -25,6 +25,10 @@ My research focuses on **vector databases**, particularly vector similarity sear
 - GPA: **3.3** / 4.00
 
 ## Publications
+- **ESG: Elastic Graphs for Range-Filtering Approximate k-Nearest Neighbor Search**\
+  <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Zhitao Shen, Chuan Xiao, Wei Wang. \
+  *Pre-Print* [[pdf]](https://arxiv.org/abs/2504.04018) [[bibtex]](https://arxiv.org/abs/2504.04018)
+
 - **Effective and General Distance Computation for Approximate Nearest Neighbor Search**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Jiabao Jin, Xiaoyao Zhong, Xiangyu Wang, Zhitao Shen, Wei Jia, Wei Wang. \
   *ICDE-2025* [[pdf]](https://arxiv.org/abs/2404.16322) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2404-16322.html?view=bibtex)
