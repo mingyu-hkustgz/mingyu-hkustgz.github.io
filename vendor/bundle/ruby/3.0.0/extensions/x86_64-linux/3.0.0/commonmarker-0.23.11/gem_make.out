@@ -1,0 +1,9 @@
+current directory: /home/mingyu/mingyu-hkustgz.github.io/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.11/ext/commonmarker
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20250425-29492-lf6j1f.rb extconf.rb
+creating Makefile
+
+current directory: /home/mingyu/mingyu-hkustgz.github.io/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.11/ext/commonmarker
+make DESTDIR\= clean
+current directory: /home/mingyu/mingyu-hkustgz.github.io/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.11/ext/commonmarker
+make DESTDIR\=
+make failedNo such file or directory - make

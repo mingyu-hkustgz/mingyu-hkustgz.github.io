@@ -1,0 +1,10 @@
+current directory: /home/mingyu/mingyu-hkustgz.github.io/vendor/bundle/ruby/3.0.0/gems/json-2.11.2/ext/json/ext/generator
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20250425-29492-qs4njg.rb extconf.rb
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/mingyu/mingyu-hkustgz.github.io/vendor/bundle/ruby/3.0.0/gems/json-2.11.2/ext/json/ext/generator
+make DESTDIR\= clean
+current directory: /home/mingyu/mingyu-hkustgz.github.io/vendor/bundle/ruby/3.0.0/gems/json-2.11.2/ext/json/ext/generator
+make DESTDIR\=
+make failedNo such file or directory - make
