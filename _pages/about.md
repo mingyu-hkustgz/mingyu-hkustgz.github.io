@@ -18,7 +18,7 @@ My research focuses on **vector databases**, particularly vector similarity sear
 ## Publications
 - **VSAG: An Optimized Search Framework for Graph-based Approximate Nearest Neighbor Search**\
   Xiaoyao Zhong, Haotian Li, Jiabao Jin, <span style="color:darkblue">**Mingyu Yang**</span>, Deming Chu, Xiangyu Wang, Zhitao Shen, Wei Jia, George Gu, Yi Xie, Xuemin Lin, Heng Tao Shen, Jingkuan Song, Peng Cheng. \
-  *Pre-Print* [[pdf]](https://arxiv.org/pdf/2503.17911) [[bibtex]](hhttps://arxiv.org/pdf/2503.17911) [[github]](https://github.com/antgroup/vsag)
+  *VLDB-2025* [[pdf]](https://arxiv.org/pdf/2503.17911) [[bibtex]](hhttps://arxiv.org/pdf/2503.17911) [[github]](https://github.com/antgroup/vsag)
 
 - **Elastic Index Select for Label-Hybrid Search in Vector Database**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wenxuan Xia, Wentao Li, Raymond Chi-Wing Wong, Wei Wang. \
