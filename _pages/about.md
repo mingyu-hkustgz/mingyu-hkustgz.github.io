@@ -18,28 +18,28 @@ My research focuses on **vector databases**, particularly vector similarity sear
 ## Publications
 - **VSAG: An Optimized Search Framework for Graph-based Approximate Nearest Neighbor Search**\
   Xiaoyao Zhong, Haotian Li, Jiabao Jin, <span style="color:darkblue">**Mingyu Yang**</span>, Deming Chu, Xiangyu Wang, Zhitao Shen, Wei Jia, George Gu, Yi Xie, Xuemin Lin, Heng Tao Shen, Jingkuan Song, Peng Cheng. \
-  **VLDB-2025** [[pdf]](https://arxiv.org/pdf/2503.17911) [[bibtex]](hhttps://arxiv.org/pdf/2503.17911) [[github]](https://github.com/antgroup/vsag)
+  <span style="color:darkgreen">**VLDB-2025**</span> [[pdf]](https://arxiv.org/pdf/2503.17911) [[bibtex]](hhttps://arxiv.org/pdf/2503.17911) [[github]](https://github.com/antgroup/vsag)
 
 - **Elastic Index Select for Label-Hybrid Search in Vector Database**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wenxuan Xia, Wentao Li, Raymond Chi-Wing Wong, Wei Wang. \
-  *Pre-Print* [[pdf]](https://arxiv.org/abs/2505.03212) [[bibtex]](https://arxiv.org/abs/2505.03212)
+  <span style="color:gray">**Pre-Print**</span> [[pdf]](https://arxiv.org/abs/2505.03212) [[bibtex]](https://arxiv.org/abs/2505.03212)
 
 - **ESG: Elastic Graphs for Range-Filtering Approximate k-Nearest Neighbor Search**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Zhitao Shen, Chuan Xiao, Wei Wang. \
-  *Pre-Print* [[pdf]](https://arxiv.org/abs/2504.04018) [[bibtex]](https://arxiv.org/abs/2504.04018)
+  <span style="color:gray">**Pre-Print**</span> [[pdf]](https://arxiv.org/abs/2504.04018) [[bibtex]](https://arxiv.org/abs/2504.04018)
 
 - **Effective and General Distance Computation for Approximate Nearest Neighbor Search**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Jiabao Jin, Xiaoyao Zhong, Xiangyu Wang, Zhitao Shen, Wei Jia, Wei Wang. \
-  **ICDE-2025** [[pdf]](https://arxiv.org/abs/2404.16322) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2404-16322.html?view=bibtex)
+  <span style="color:darkgreen">**ICDE-2025**</span> [[pdf]](https://arxiv.org/abs/2404.16322) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2404-16322.html?view=bibtex)
   <a class="github-button" href="https://github.com/mingyu-hkustgz/Res-Infer" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">DDC&BSA</a>
 
 - **Fast High-dimensional Approximate Nearest Neighbor Search with Efficient Index Time and Space**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang. \
-  *Pre-Print* [[pdf]](https://arxiv.org/abs/2411.06158) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2411-06158.html?view=bibtex) [[github]](https://github.com/mingyu-hkustgz/RESQ)
+  <span style="color:gray">**Pre-Print**</span> [[pdf]](https://arxiv.org/abs/2411.06158) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2411-06158.html?view=bibtex) [[github]](https://github.com/mingyu-hkustgz/RESQ)
 
 - **Querying Numeric-Constrained Shortest Distances on Road Networks**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang, Dong Wen, Lu Qin. \
-  **ICDE-2024** [[pdf]](https://ieeexplore.ieee.org/abstract/document/10597684) [[bibtex]](https://dblp.org/rec/conf/icde/YangLWWQ24.html?view=bibtex)
+  <span style="color:darkgreen">**ICDE-2024**</span> [[pdf]](https://ieeexplore.ieee.org/abstract/document/10597684) [[bibtex]](https://dblp.org/rec/conf/icde/YangLWWQ24.html?view=bibtex)
 
 ## Education
 * **The Hong Kong University of Science and Technology (Guangzhou) [(HKUST(GZ))](https://www.hkust-gz.edu.cn/)**
