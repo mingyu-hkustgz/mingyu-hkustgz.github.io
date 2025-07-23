@@ -62,4 +62,4 @@ My research focuses on **vector databases**, particularly vector similarity sear
 * Conference External Reviewer: ICDE'23, 24, 25, VLDB'24, NeurIPS'24, SIGIR' 24.
 
 ## Sitemap
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=lR3cgZbdKoYg0NvhSLnxgUJE7E5OX566NLTUW_yKRpw"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lR3cgZbdKoYg0NvhSLnxgUJE7E5OX566NLTUW_yKRpw&cl=ffffff&w=a"></script>
