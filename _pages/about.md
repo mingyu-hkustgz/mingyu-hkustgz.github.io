@@ -44,10 +44,13 @@ My research focuses on **vector databases**, particularly vector similarity sear
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang, Dong Wen, Lu Qin. \
   <span style="color:darkgreen">**ICDE-2024**</span> [[pdf]](https://ieeexplore.ieee.org/abstract/document/10597684) [[bibtex]](https://dblp.org/rec/conf/icde/YangLWWQ24.html?view=bibtex)
 
-## Education
+## Experience
 * **The Hong Kong University of Science and Technology (Guangzhou) [(HKUST(GZ))](https://www.hkust-gz.edu.cn/)**
-  * Ph.D. in [(Data Science and Analytics)](https://dsa.hkust-gz.edu.cn/),  *Sep. 2022 -- Jul. 2026 (Expected)*
+  * Ph.D. in [(Data Science and Analytics)](https://dsa.hkust-gz.edu.cn/),  *Sep. 2022 -- Jul. 2026 (Expected)* work with Prof. [Wei Wang](http://wei-wang.net)
 
+* **The Hong Kong University of Science and Technology**
+  * Visiting Student  *Feb. 2025 -- Aug. 2025 * work with Prof. [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong)
+* 
 * **Tianjin University [(TJU)](https://cic.tju.edu.cn/)**
   * B.S. in [Computer Science and Technology](https://cic.tju.edu.cn/),  *Sep. 2018-- Jul. 2022*
 
