@@ -9,6 +9,9 @@ redirect_from:
 I am a third-year Ph.D. candidate in the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn), at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Wei Wang](http://wei-wang.net) and co-supervised by [Prof. Lei Li](https://sites.google.com/view/leili).
 
 
+## News
+<span style="color:darkred">I'm looking for opportunities in industry or a postdoc in Beijing or overseas starting from 2026. Please drop me an email if you are interested in my research. Thanks!</span>
+
 ## Research Interests
 My research focuses on **vector databases**, particularly vector similarity search. My interests include techniques such as graph-based vector index and vector quantization technology, as well as integrating complex queries with vector databases.
 
