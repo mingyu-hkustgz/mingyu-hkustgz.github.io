@@ -49,8 +49,8 @@ My research focuses on **vector databases**, particularly vector similarity sear
   * Ph.D. in [(Data Science and Analytics)](https://dsa.hkust-gz.edu.cn/),  *Sep. 2022 -- Jul. 2026 (Expected)* work with Prof. [Wei Wang](http://wei-wang.net)
 
 * **The Hong Kong University of Science and Technology**
-  * Visiting Student  *Feb. 2025 -- Aug. 2025 * work with Prof. [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong)
-* 
+  * Visiting Student  *Feb. 2025 -- Aug. 2025* work with Prof. [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong)
+
 * **Tianjin University [(TJU)](https://cic.tju.edu.cn/)**
   * B.S. in [Computer Science and Technology](https://cic.tju.edu.cn/),  *Sep. 2018-- Jul. 2022*
 
