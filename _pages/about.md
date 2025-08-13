@@ -10,7 +10,7 @@ I am a third-year Ph.D. candidate in the [Data Science and Analytics Thrust](htt
 
 
 ## News
-<span style="color:darkred">I'm looking for opportunities in industry or a postdoc in Beijing or overseas starting from 2026. Please drop me an email if you are interested in my research. Thanks!</span>
+<span style="color:darkred">I'm looking for opportunities in industry or a postdoc starting from 2026. Please drop me an email (mingyuyang25@gmail.com) if you are interested in my research. Thanks!</span>
 
 ## Research Interests
 My research focuses on **vector databases**, particularly vector similarity search. My interests include techniques such as graph-based vector index and vector quantization technology, as well as integrating complex queries with vector databases.
