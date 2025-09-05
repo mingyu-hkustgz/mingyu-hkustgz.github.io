@@ -38,7 +38,7 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 - **Structural Clustering for Bipartite Graphs**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang, Dong Wen, Min Gao, Lu Qin. \
-  <span style="color:darkgreen">**TKDE-2025**</span> [[pdf]](https://ieeexplore.ieee.org/abstract/document/10597684) [[bibtex]](https://dblp.org/rec/conf/icde/YangLWWQ24.html?view=bibtex)
+  <span style="color:darkgreen">**TKDE-2025**</span>
 
 - **Fast High-dimensional Approximate Nearest Neighbor Search with Efficient Index Time and Space**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang. \
