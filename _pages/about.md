@@ -15,7 +15,7 @@ I am a third-year Ph.D. candidate in the [Data Science and Analytics Thrust](htt
 ## Research Interests
 My research focuses on **vector databases**, particularly vector similarity search. My interests include techniques such as graph-based vector index and vector quantization technology, as well as integrating complex queries with vector databases.
 
-(This webpage was last updated on **Mar 1, 2025**)
+(This webpage was last updated on **September 1, 2025**)
 
 
 ## Publications
@@ -35,6 +35,10 @@ My research focuses on **vector databases**, particularly vector similarity sear
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Jiabao Jin, Xiaoyao Zhong, Xiangyu Wang, Zhitao Shen, Wei Jia, Wei Wang. \
   <span style="color:darkgreen">**ICDE-2025**</span> [[pdf]](https://arxiv.org/abs/2404.16322) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2404-16322.html?view=bibtex)
   <a class="github-button" href="https://github.com/mingyu-hkustgz/Res-Infer" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">DDC&BSA</a>
+
+- **Structural Clustering for Bipartite Graphs**\
+  <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang, Dong Wen, Min Gao, Lu Qin. \
+  <span style="color:darkgreen">**TKDE-2025**</span> [[pdf]](https://ieeexplore.ieee.org/abstract/document/10597684) [[bibtex]](https://dblp.org/rec/conf/icde/YangLWWQ24.html?view=bibtex)
 
 - **Fast High-dimensional Approximate Nearest Neighbor Search with Efficient Index Time and Space**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang. \
