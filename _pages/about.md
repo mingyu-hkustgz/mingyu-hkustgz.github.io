@@ -10,12 +10,12 @@ I am a third-year Ph.D. candidate in the [Data Science and Analytics Thrust](htt
 
 
 ## News
-<span style="color:darkred">I'm looking for opportunities in industry or a postdoc starting from 2026. Please drop me an email (mingyuyang25@gmail.com) if you are interested in my research. Thanks!</span>
+<span style="color:darkred">I'm looking for opportunities in academia starting from 2026.</span>
 
 ## Research Interests
 My research focuses on **vector databases**, particularly vector similarity search. My interests include techniques such as graph-based vector index and vector quantization technology, as well as integrating complex queries with vector databases.
 
-(This webpage was last updated on **September 1, 2025**)
+(This webpage was last updated on **September 20, 2025**)
 
 
 ## Publications
@@ -55,7 +55,7 @@ My research focuses on **vector databases**, particularly vector similarity sear
 * **The Hong Kong University of Science and Technology**
   * Visiting Student  *Feb. 2025 -- Aug. 2025* work with Prof. [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong)
 
-* **Tianjin University [(TJU)](https://cic.tju.edu.cn/)**
+* **Tianjin University**
   * B.S. in [Computer Science and Technology](https://cic.tju.edu.cn/),  *Sep. 2018-- Jul. 2022*
 
 
