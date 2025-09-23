@@ -9,9 +9,6 @@ redirect_from:
 I am a third-year Ph.D. candidate in the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn), at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Wei Wang](http://wei-wang.net) and co-supervised by [Prof. Lei Li](https://sites.google.com/view/leili).
 
 
-## News
-<span style="color:darkred">I'm looking for opportunities in academia starting from 2026.</span>
-
 ## Research Interests
 My research focuses on **vector databases**, particularly vector similarity search. My interests include techniques such as graph-based vector index and vector quantization technology, as well as integrating complex queries with vector databases.
 
@@ -38,7 +35,7 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 - **Structural Clustering for Bipartite Graphs**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang, Dong Wen, Min Gao, Lu Qin. \
-  <span style="color:darkgreen">**TKDE-2025**</span>
+  <span style="color:darkgreen">**TKDE-2025** [[pdf]](https://ieeexplore.ieee.org/document/11173999) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:TwJI8NbH9PIJ:scholar.google.com/&output=citation&scisdr=CgIzepbJEISZ-BI7UHE:AAZF9b8AAAAAaNI9SHE0lQL_wbe-grzlxwBSeYg&scisig=AAZF9b8AAAAAaNI9SKKKcP1--RPi61KJsxjq-T0&scisf=4&ct=citation&cd=-1&hl=zh-CN)</span>
 
 - **Fast High-dimensional Approximate Nearest Neighbor Search with Efficient Index Time and Space**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang. \
