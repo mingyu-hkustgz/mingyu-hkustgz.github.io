@@ -6,13 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year Ph.D. candidate in the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn), at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Wei Wang](http://wei-wang.net) and co-supervised by [Prof. Lei Li](https://sites.google.com/view/leili).
+I am a final-year Ph.D. candidate in the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn), at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Wei Wang](http://wei-wang.net) and co-supervised by [Prof. Lei Li](https://sites.google.com/view/leili).
 
 
 ## Research Interests
 My research focuses on **vector databases**, particularly vector similarity search. My interests include techniques such as graph-based vector index and vector quantization technology, as well as integrating complex queries with vector databases.
 
-(This webpage was last updated on **September 20, 2025**)
+(This webpage was last updated on **September 30, 2025**)
+
+
+## News
+<span style="color:darkred">I'm looking for opportunities in academia or industry starting from 2026. I would be grateful for any recommendations. My email address is mingyuyang25 [at] gmail.com</span>
 
 
 ## Publications
