@@ -70,6 +70,7 @@ My research focuses on **vector databases**, particularly vector similarity sear
 * UFUD2601: C++ Programming. (Fall 2024)
 
 ## Academic Service
+* Program Committee Member: PAKDD' 26.
 * Conference External Reviewer: ICDE'23, 24, 25, VLDB'24, NeurIPS'24, SIGIR' 24.
 
 ## Sitemap
