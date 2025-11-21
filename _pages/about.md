@@ -20,13 +20,13 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 
 ## Publications
+- **Elastic Index Select for Label-Hybrid Search in Vector Database**\
+  <span style="color:darkblue">**Mingyu Yang**</span>, Wenxuan Xia, Wentao Li, Raymond Chi-Wing Wong, Wei Wang. \
+  <span style="color:darkgreen">**VLDB-2026**</span> [[pdf]](https://arxiv.org/abs/2505.03212) [[bibtex]](https://arxiv.org/abs/2505.03212)
+
 - **VSAG: An Optimized Search Framework for Graph-based Approximate Nearest Neighbor Search**\
   Xiaoyao Zhong, Haotian Li, Jiabao Jin, <span style="color:darkblue">**Mingyu Yang**</span>, Deming Chu, Xiangyu Wang, Zhitao Shen, Wei Jia, George Gu, Yi Xie, Xuemin Lin, Heng Tao Shen, Jingkuan Song, Peng Cheng. \
   <span style="color:darkgreen">**VLDB-2025**</span> [[pdf]](https://arxiv.org/pdf/2503.17911) [[bibtex]](hhttps://arxiv.org/pdf/2503.17911) [[github]](https://github.com/antgroup/vsag)
-
-- **Elastic Index Select for Label-Hybrid Search in Vector Database**\
-  <span style="color:darkblue">**Mingyu Yang**</span>, Wenxuan Xia, Wentao Li, Raymond Chi-Wing Wong, Wei Wang. \
-  <span style="color:gray">**Pre-Print**</span> [[pdf]](https://arxiv.org/abs/2505.03212) [[bibtex]](https://arxiv.org/abs/2505.03212)
 
 - **ESG: Elastic Graphs for Range-Filtering Approximate k-Nearest Neighbor Search**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Zhitao Shen, Chuan Xiao, Wei Wang. \
