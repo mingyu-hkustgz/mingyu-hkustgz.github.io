@@ -21,7 +21,7 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 ## Publications
 - **Multiple Index Merge for Approximate Nearest Neighbor Search**\
-  Liuchang Jing, <span style="color:darkblue">**Mingyu Yang***</span>, Lei Li, Jiabin Qin, Wei Wang. \
+  Liuchang Jing, <span style="color:darkblue">**Mingyu Yang***</span>, Lei Li, Jianbin Qin, Wei Wang. \
   <span style="color:gray">**Pre-Print**</span>
 
 - **Elastic Index Select for Label-Hybrid Search in Vector Database**\
