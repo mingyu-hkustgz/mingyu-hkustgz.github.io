@@ -20,6 +20,12 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 
 ## Publications
+
+- **Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search**\
+  <span style="color:darkblue">**Mingyu Yang**</span>, Liuchang Jing, Wentao Li, Wei Wang. \
+  <span style="color:darkgreen">**VLDB-2026**</span> [[pdf]](https://github.com/mingyu-hkustgz/RESQ/blob/main/technical_report.pdf) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2411-06158.html?view=bibtex) [[github]](https://github.com/mingyu-hkustgz/RESQ)
+
+
 - **Elastic Index Select for Label-Hybrid Search in Vector Database**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wenxuan Xia, Wentao Li, Raymond Chi-Wing Wong, Wei Wang. \
   <span style="color:darkgreen">**VLDB-2026**</span> [[pdf]](https://arxiv.org/abs/2505.03212) [[bibtex]](https://arxiv.org/abs/2505.03212)
@@ -40,10 +46,6 @@ My research focuses on **vector databases**, particularly vector similarity sear
 - **Structural Clustering for Bipartite Graphs**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang, Dong Wen, Min Gao, Lu Qin. \
   <span style="color:darkgreen">**TKDE-2025** [[pdf]](https://ieeexplore.ieee.org/document/11173999) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:TwJI8NbH9PIJ:scholar.google.com/&output=citation&scisdr=CgIzepbJEISZ-BI7UHE:AAZF9b8AAAAAaNI9SHE0lQL_wbe-grzlxwBSeYg&scisig=AAZF9b8AAAAAaNI9SKKKcP1--RPi61KJsxjq-T0&scisf=4&ct=citation&cd=-1&hl=zh-CN)</span>
-
-- **Fast High-dimensional Approximate Nearest Neighbor Search with Efficient Index Time and Space**\
-  <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang. \
-  <span style="color:gray">**Pre-Print**</span> [[pdf]](https://arxiv.org/abs/2411.06158) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2411-06158.html?view=bibtex) [[github]](https://github.com/mingyu-hkustgz/RESQ)
 
 - **Querying Numeric-Constrained Shortest Distances on Road Networks**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang, Dong Wen, Lu Qin. \
