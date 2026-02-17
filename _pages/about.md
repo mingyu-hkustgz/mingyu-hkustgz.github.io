@@ -21,6 +21,10 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 ## Publications
 
+- **Filtered Approximate Nearest Neighbor Search Cost Estimation**\
+  Wenxuan Xia, <span style="color:darkblue">**Mingyu Yang***</span>, Wentao Li, Wei Wang. \
+  <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/pdf/2602.06721) [[bibtex]](https://arxiv.org/pdf/2602.06721)
+
 - **Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Liuchang Jing, Wentao Li, Wei Wang. \
   <span style="color:darkgreen">**VLDB-2026**</span> [[pdf]](https://arxiv.org/abs/2411.06158) [[bibtex]](https://arxiv.org/abs/2411.06158) [[github]](https://github.com/mingyu-hkustgz/RESQ)
@@ -36,7 +40,7 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 - **ESG: Elastic Graphs for Range-Filtering Approximate k-Nearest Neighbor Search**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Zhitao Shen, Chuan Xiao, Wei Wang. \
-  <span style="color:gray">**Pre-Print**</span> [[pdf]](https://arxiv.org/abs/2504.04018) [[bibtex]](https://arxiv.org/abs/2504.04018) [[github]](https://github.com/mingyu-hkustgz/RangANN)
+  <span style="color:gray">**Preprint-2025**</span> [[pdf]](https://arxiv.org/abs/2504.04018) [[bibtex]](https://arxiv.org/abs/2504.04018) [[github]](https://github.com/mingyu-hkustgz/RangANN)
 
 - **Effective and General Distance Computation for Approximate Nearest Neighbor Search**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Jiabao Jin, Xiaoyao Zhong, Xiangyu Wang, Zhitao Shen, Wei Jia, Wei Wang. \
