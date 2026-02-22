@@ -21,6 +21,11 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 ## Publications
 
+- **Multiple Index Merge for Approximate Nearest Neighbor Search**\
+  Liuchang Jing, <span style="color:darkblue">**Mingyu Yang***</span>, Lei Li, Jianbin Qin, Wei Wang. \
+  <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2602.17099) [[bibtex]](https://arxiv.org/abs/2602.17099)
+
+
 - **Filtered Approximate Nearest Neighbor Search Cost Estimation**\
   Wenxuan Xia, <span style="color:darkblue">**Mingyu Yang***</span>, Wentao Li, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/pdf/2602.06721) [[bibtex]](https://arxiv.org/pdf/2602.06721)
