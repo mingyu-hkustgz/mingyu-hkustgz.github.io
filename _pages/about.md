@@ -16,7 +16,7 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 
 ## News
-<span style="color:darkred">I'm looking for post-doc from 2026 July or October. I would be grateful for any recommendations. My email address is mingyuyang25 [at] gmail.com</span>
+<span style="color:darkred">I'm looking for postdoc from 2026 July or October. I would be grateful for any recommendations. My email address is mingyuyang25 [at] gmail.com. My WeChat id is _Magic_Sheep7_ if you are interested in my research</span>
 
 
 ## Publications
