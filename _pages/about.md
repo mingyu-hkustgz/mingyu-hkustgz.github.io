@@ -16,18 +16,20 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 
 ## News
-<span style="color:darkred">My WeChat id is _Magic_Sheep7_ if you are interested in my research</span>
+<span style="color:red">I expect to graduate in the summer of 2026 and am looking for postdoc or industry opportunities. My WeChat id is _Magic_Sheep7_ if you are interested in my research.</span>
 
 
 ## Publications
 
+_^ indicate student advise by me;* indicate Co-First\&Corresponding author_
+
 - **Multiple Index Merge for Approximate Nearest Neighbor Search**\
-  Liuchang Jing, <span style="color:darkblue">**Mingyu Yang***</span>, Lei Li, Jianbin Qin, Wei Wang. \
+  Liuchang Jing^, <span style="color:darkblue">**Mingyu Yang***</span>, Lei Li, Jianbin Qin, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2602.17099) [[bibtex]](https://arxiv.org/abs/2602.17099)
 
 
 - **Filtered Approximate Nearest Neighbor Search Cost Estimation**\
-  Wenxuan Xia, <span style="color:darkblue">**Mingyu Yang***</span>, Wentao Li, Wei Wang. \
+  Wenxuan Xia^, <span style="color:darkblue">**Mingyu Yang***</span>, Wentao Li, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/pdf/2602.06721) [[bibtex]](https://arxiv.org/pdf/2602.06721)
 
 - **Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search**\
