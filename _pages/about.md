@@ -23,10 +23,14 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 _^ indicate student advise by me;* indicate Co-First\&Corresponding author_
 
+- **BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs**\
+  Duyi Pan^, Tianao Lou, Xin Li, Haoze Song, Yiwen Wu, Mengyi Deng, <span style="color:darkblue">**Mingyu Yang***</span>, Wei Wang. \
+  <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2603.20309) [[bibtex]](https://arxiv.org/abs/2603.20309)
+
+
 - **Multiple Index Merge for Approximate Nearest Neighbor Search**\
   Liuchang Jing^, <span style="color:darkblue">**Mingyu Yang***</span>, Lei Li, Jianbin Qin, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2602.17099) [[bibtex]](https://arxiv.org/abs/2602.17099)
-
 
 - **Filtered Approximate Nearest Neighbor Search Cost Estimation**\
   Wenxuan Xia^, <span style="color:darkblue">**Mingyu Yang***</span>, Wentao Li, Wei Wang. \
