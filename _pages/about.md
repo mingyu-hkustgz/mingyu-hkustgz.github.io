@@ -15,8 +15,9 @@ My research focuses on **vector databases**, particularly vector similarity sear
 (This webpage was last updated on **February 2026**)
 
 
-## News
-<span style="color:red">I expect to graduate in the summer of 2026 and am looking for postdoc or industry opportunities. My WeChat id is _Magic_Sheep7_ if you are interested in my research.</span>
+[//]: # (## News)
+
+[//]: # (<span style="color:red">I expect to graduate in the summer of 2026 and am looking for postdoc or industry opportunities. My WeChat id is _Magic_Sheep7_ if you are interested in my research.</span>)
 
 
 ## Publications
