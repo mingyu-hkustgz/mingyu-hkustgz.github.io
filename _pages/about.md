@@ -24,10 +24,14 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 _^ indicate student advise by me;* indicate Co-First\&Corresponding author_
 
+- **CubeGraph: Efficient Retrieval-Augmented Generation for Spatial and Temporal Data**\
+  <span style="color:darkblue">**Mingyu Yang**</span>,  Wentao Li, Wei Wang. \
+  <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2604.06616) [[bibtex]](https://arxiv.org/abs/2604.06616)
+
+
 - **BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs**\
   Duyi Pan^, Tianao Lou, Xin Li, Haoze Song, Yiwen Wu, Mengyi Deng, <span style="color:darkblue">**Mingyu Yang***</span>, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2603.20309) [[bibtex]](https://arxiv.org/abs/2603.20309)
-
 
 - **Multiple Index Merge for Approximate Nearest Neighbor Search**\
   Liuchang Jing^, <span style="color:darkblue">**Mingyu Yang***</span>, Lei Li, Jianbin Qin, Wei Wang. \
@@ -40,7 +44,6 @@ _^ indicate student advise by me;* indicate Co-First\&Corresponding author_
 - **Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Liuchang Jing, Wentao Li, Wei Wang. \
   <span style="color:darkgreen">**VLDB-2026**</span> [[pdf]](https://arxiv.org/abs/2411.06158) [[bibtex]](https://arxiv.org/abs/2411.06158) [[github]](https://github.com/mingyu-hkustgz/RESQ)
-
 
 - **Elastic Index Select for Label-Hybrid Search in Vector Database**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wenxuan Xia, Wentao Li, Raymond Chi-Wing Wong, Wei Wang. \
