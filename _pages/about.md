@@ -37,7 +37,7 @@ _^ indicate student advise by me;* indicate Co-First\&Corresponding author_
   Liuchang Jing^, <span style="color:darkblue">**Mingyu Yang***</span>, Lei Li, Jianbin Qin, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2602.17099) [[bibtex]](https://arxiv.org/abs/2602.17099)
 
-- **E2E: Efficient Filtered AKNN Search via Adaptive Termination}**\
+- **E2E: Efficient Filtered AKNN Search via Adaptive Termination**\
   Wenxuan Xia^, <span style="color:darkblue">**Mingyu Yang***</span>, Wentao Li, Wei Wang. \
   <span style="color:darkgreen">**KDD-2026**</span> [[pdf]](https://arxiv.org/pdf/2602.06721) [[bibtex]](https://arxiv.org/pdf/2602.06721)
 
