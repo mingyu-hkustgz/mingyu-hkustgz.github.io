@@ -15,10 +15,6 @@ I recived my Ph.D. of Data Science in the [Data Science and Analytics Thrust](ht
 My research focuses on **vector databases**, particularly vector similarity search. My interests include techniques such as graph-based vector index and vector quantization technology, as well as integrating complex queries with vector databases.
 
 
-## News
-
-<span style="color:red">I joined the infra team of DeepSeek.</span>
-
 
 ## Publications
 
