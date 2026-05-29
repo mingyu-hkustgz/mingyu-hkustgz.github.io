@@ -6,18 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year Ph.D. candidate in the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn), at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Wei Wang](http://wei-wang.net) and co-supervised by [Prof. Lei Li](https://sites.google.com/view/leili).
+I recived my Ph.D. of Data Science in the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn), at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Wei Wang](http://wei-wang.net) and co-supervised by [Prof. Lei Li](https://sites.google.com/view/leili).
+
+
 
 
 ## Research Interests
 My research focuses on **vector databases**, particularly vector similarity search. My interests include techniques such as graph-based vector index and vector quantization technology, as well as integrating complex queries with vector databases.
 
-(This webpage was last updated on **February 2026**)
 
+## News
 
-[//]: # (## News)
-
-[//]: # (<span style="color:red">I expect to graduate in the summer of 2026 and am looking for postdoc or industry opportunities. My WeChat id is _Magic_Sheep7_ if you are interested in my research.</span>)
+<span style="color:red">I joined the infra team of DeepSeek.</span>
 
 
 ## Publications
@@ -71,7 +71,7 @@ _^ indicate student advise by me;* indicate Co-First\&Corresponding author_
 
 ## Experience
 * **The Hong Kong University of Science and Technology (Guangzhou) [(HKUST(GZ))](https://www.hkust-gz.edu.cn/)**
-  * Ph.D. in [(Data Science and Analytics)](https://dsa.hkust-gz.edu.cn/),  *Sep. 2022 -- Jul. 2026 (Expected)* work with Prof. [Wei Wang](http://wei-wang.net)
+  * Ph.D. in [(Data Science and Analytics)](https://dsa.hkust-gz.edu.cn/),  *Sep. 2022 -- Jul. 2026* work with Prof. [Wei Wang](http://wei-wang.net)
 
 * **The Hong Kong University of Science and Technology**
   * Visiting Student  *Feb. 2025 -- Aug. 2025* work with Prof. [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong)
