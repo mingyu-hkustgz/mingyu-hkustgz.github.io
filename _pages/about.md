@@ -20,6 +20,10 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 _^ indicate student advise by me;* indicate Co-First\&Corresponding author_
 
+- **HRNN: A Hybrid Graph Index for Approximate Reverse k-Nearest Neighbor Search on High-Dimensional Vectors**\
+  Wenxuan Xia^, <span style="color:darkblue">**Mingyu Yang***</span>, Wentao Li, Wei Wang. \
+  <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2606.03225) [[bibtex]](https://arxiv.org/abs/2606.03225)
+
 - **CubeGraph: Efficient Retrieval-Augmented Generation for Spatial and Temporal Data**\
   <span style="color:darkblue">**Mingyu Yang**</span>,  Wentao Li, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2604.06616) [[bibtex]](https://arxiv.org/abs/2604.06616)
