@@ -20,52 +20,52 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 _^ indicate student advise by me;* indicate Co-First\&Corresponding author_
 
-1. - **HRNN: A Hybrid Graph Index for Approximate Reverse k-Nearest Neighbor Search on High-Dimensional Vectors**\
+1. **HRNN: A Hybrid Graph Index for Approximate Reverse k-Nearest Neighbor Search on High-Dimensional Vectors**\
   Wenxuan Xia^, <span style="color:darkblue">**Mingyu Yang***</span>, Wentao Li, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2606.03225) [[bibtex]](https://arxiv.org/abs/2606.03225)
 
-1. - **CubeGraph: Efficient Retrieval-Augmented Generation for Spatial and Temporal Data**\
+1. **CubeGraph: Efficient Retrieval-Augmented Generation for Spatial and Temporal Data**\
   <span style="color:darkblue">**Mingyu Yang**</span>,  Wentao Li, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2604.06616) [[bibtex]](https://arxiv.org/abs/2604.06616)
 
 
-1. - **BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs**\
+1. **BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs**\
   Duyi Pan^, Tianao Lou, Xin Li, Haoze Song, Yiwen Wu, Mengyi Deng, <span style="color:darkblue">**Mingyu Yang***</span>, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2603.20309) [[bibtex]](https://arxiv.org/abs/2603.20309)
 
-1. - **Multiple Index Merge for Approximate Nearest Neighbor Search**\
+1. **Multiple Index Merge for Approximate Nearest Neighbor Search**\
   Liuchang Jing^, <span style="color:darkblue">**Mingyu Yang***</span>, Lei Li, Jianbin Qin, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2602.17099) [[bibtex]](https://arxiv.org/abs/2602.17099)
 
-1. - **E2E: Efficient Filtered AKNN Search via Adaptive Termination**\
+1. **E2E: Efficient Filtered AKNN Search via Adaptive Termination**\
   Wenxuan Xia^, <span style="color:darkblue">**Mingyu Yang***</span>, Wentao Li, Wei Wang. \
   <span style="color:darkgreen">**KDD-2026**</span> [[pdf]](https://arxiv.org/pdf/2602.06721) [[bibtex]](https://arxiv.org/pdf/2602.06721)
 
-1. - **Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search**\
+1. **Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Liuchang Jing, Wentao Li, Wei Wang. \
   <span style="color:darkgreen">**VLDB-2026**</span> [[pdf]](https://arxiv.org/abs/2411.06158) [[bibtex]](https://arxiv.org/abs/2411.06158) [[github]](https://github.com/mingyu-hkustgz/RESQ)
 
-1. - **Elastic Index Select for Label-Hybrid Search in Vector Database**\
+1. **Elastic Index Select for Label-Hybrid Search in Vector Database**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wenxuan Xia, Wentao Li, Raymond Chi-Wing Wong, Wei Wang. \
   <span style="color:darkgreen">**VLDB-2026**</span> [[pdf]](https://arxiv.org/abs/2505.03212) [[bibtex]](https://arxiv.org/abs/2505.03212) [[github]](https://github.com/mingyu-hkustgz/LabelANN)
 
-1. - **VSAG: An Optimized Search Framework for Graph-based Approximate Nearest Neighbor Search**\
+1. **VSAG: An Optimized Search Framework for Graph-based Approximate Nearest Neighbor Search**\
   Xiaoyao Zhong, Haotian Li, Jiabao Jin, <span style="color:darkblue">**Mingyu Yang**</span>, Deming Chu, Xiangyu Wang, Zhitao Shen, Wei Jia, George Gu, Yi Xie, Xuemin Lin, Heng Tao Shen, Jingkuan Song, Peng Cheng. \
   <span style="color:darkgreen">**VLDB-2025**</span> [[pdf]](https://arxiv.org/pdf/2503.17911) [[bibtex]](hhttps://arxiv.org/pdf/2503.17911) [[github]](https://github.com/antgroup/vsag)
 
-1. - **ESG: Elastic Graphs for Range-Filtering Approximate k-Nearest Neighbor Search**\
+1. **ESG: Elastic Graphs for Range-Filtering Approximate k-Nearest Neighbor Search**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Zhitao Shen, Chuan Xiao, Wei Wang. \
   <span style="color:gray">**Preprint-2025**</span> [[pdf]](https://arxiv.org/abs/2504.04018) [[bibtex]](https://arxiv.org/abs/2504.04018) [[github]](https://github.com/mingyu-hkustgz/RangANN)
 
-1. - **Effective and General Distance Computation for Approximate Nearest Neighbor Search**\
+1. **Effective and General Distance Computation for Approximate Nearest Neighbor Search**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Jiabao Jin, Xiaoyao Zhong, Xiangyu Wang, Zhitao Shen, Wei Jia, Wei Wang. \
   <span style="color:darkgreen">**ICDE-2025**</span> [[pdf]](https://arxiv.org/abs/2404.16322) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2404-16322.html?view=bibtex) [[github]](https://github.com/mingyu-hkustgz/Res-Infer)
 
-1. - **Structural Clustering for Bipartite Graphs**\
+1. **Structural Clustering for Bipartite Graphs**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang, Dong Wen, Min Gao, Lu Qin. \
   <span style="color:darkgreen">**TKDE-2025** [[pdf]](https://ieeexplore.ieee.org/document/11173999) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:TwJI8NbH9PIJ:scholar.google.com/&output=citation&scisdr=CgIzepbJEISZ-BI7UHE:AAZF9b8AAAAAaNI9SHE0lQL_wbe-grzlxwBSeYg&scisig=AAZF9b8AAAAAaNI9SKKKcP1--RPi61KJsxjq-T0&scisf=4&ct=citation&cd=-1&hl=zh-CN)</span>
 
-1. - **Querying Numeric-Constrained Shortest Distances on Road Networks**\
+1. **Querying Numeric-Constrained Shortest Distances on Road Networks**\
   <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang, Dong Wen, Lu Qin. \
   <span style="color:darkgreen">**ICDE-2024**</span> [[pdf]](https://ieeexplore.ieee.org/abstract/document/10597684) [[bibtex]](https://dblp.org/rec/conf/icde/YangLWWQ24.html?view=bibtex)
 
