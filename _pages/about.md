@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I recived my Ph.D. of Data Science in the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn), at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Wei Wang](http://wei-wang.net) and co-supervised by [Prof. Lei Li](https://sites.google.com/view/leili).
+I received my Ph.D. in the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn), at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Wei Wang](http://wei-wang.net) and co-supervised by [Prof. Lei Li](https://sites.google.com/view/leili).
 
+I joined the DeepSeek Infra Team in June 2026.
 
 
 
