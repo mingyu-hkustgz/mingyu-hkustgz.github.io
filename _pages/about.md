@@ -18,11 +18,14 @@ My research focuses on **vector databases**, particularly vector similarity sear
 
 
 ## Publications
-
 _^ indicate student advise by me;* indicate Co-First\&Corresponding author_
 
+1. **EnhanceGraph: A Continuously Enhanced Graph-based Index for High-dimensional Approximate Nearest Neighbor Search**  
+  Xiaoyao Zhong, Jiabao Jin, Peng Cheng, <span style="color:darkblue">**Mingyu Yang**</span>, Haoyang Li, Zhitao Shen, Jingkuan Song, Heng Tao Shen.  
+  <span style="color:darkgreen">**TKDE-2026**</span> [[pdf]](https://arxiv.org/pdf/2506.13144) [[bibtex]](https://arxiv.org/abs/2506.13144)
+
 1. **HRNN: A Hybrid Graph Index for Approximate Reverse k-Nearest Neighbor Search on High-Dimensional Vectors**\
-  Wenxuan Xia^, <span style="color:darkblue">**Mingyu Yang***</span>, Wentao Li, Wei Wang. \
+  Wenxuan Xia^, <span style="color:darkblue">**Mingyu Yang**</span>, Wentao Li, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2606.03225) [[bibtex]](https://arxiv.org/abs/2606.03225)
 
 1. **CubeGraph: Efficient Retrieval-Augmented Generation for Spatial and Temporal Data**\
