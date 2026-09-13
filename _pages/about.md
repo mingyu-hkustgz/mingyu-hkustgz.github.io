@@ -20,6 +20,10 @@ My research focuses on **vector databases**, particularly vector similarity sear
 ## Publications
 _^ indicate student advise by me;* indicate Co-First\&Corresponding author_
 
+1. **Reverse Neighbor Sliding and Order Selection for Efficient Multi-Proximity Graph Merging**\
+  Liuchang Jing^, <span style="color:darkblue">**Mingyu Yang***</span>, Lei Li, Jianbin Qin, Wei Wang. \
+  <span style="color:darkgreen">**SIGMOD-2027**</span> [[pdf]](https://arxiv.org/abs/2602.17099) [[bibtex]](https://arxiv.org/abs/2602.17099)
+
 1. **EnhanceGraph: A Continuously Enhanced Graph-based Index for High-dimensional Approximate Nearest Neighbor Search**  
   Xiaoyao Zhong, Jiabao Jin, Peng Cheng, <span style="color:darkblue">**Mingyu Yang**</span>, Haoyang Li, Zhitao Shen, Jingkuan Song, Heng Tao Shen.  
   <span style="color:darkgreen">**TKDE-2026**</span> [[pdf]](https://arxiv.org/pdf/2506.13144) [[bibtex]](https://arxiv.org/abs/2506.13144)
@@ -36,10 +40,6 @@ _^ indicate student advise by me;* indicate Co-First\&Corresponding author_
 1. **BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs**\
   Duyi Pan^, Tianao Lou, Xin Li, Haoze Song, Yiwen Wu, Mengyi Deng, <span style="color:darkblue">**Mingyu Yang***</span>, Wei Wang. \
   <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2603.20309) [[bibtex]](https://arxiv.org/abs/2603.20309)
-
-1. **Multiple Index Merge for Approximate Nearest Neighbor Search**\
-  Liuchang Jing^, <span style="color:darkblue">**Mingyu Yang***</span>, Lei Li, Jianbin Qin, Wei Wang. \
-  <span style="color:gray">**Preprint-2026**</span> [[pdf]](https://arxiv.org/abs/2602.17099) [[bibtex]](https://arxiv.org/abs/2602.17099)
 
 1. **E2E: Efficient Filtered AKNN Search via Adaptive Termination**\
   Wenxuan Xia^, <span style="color:darkblue">**Mingyu Yang***</span>, Wentao Li, Wei Wang. \
